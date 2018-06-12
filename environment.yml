@@ -6,3 +6,4 @@ channels:
 dependencies:
   - pillow
   - basemap-data-hires
+  - netcdf4 
