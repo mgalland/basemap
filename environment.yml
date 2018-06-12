@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - matplotlib=2.2.2
   - basemap
+  - pil
