@@ -1,12 +1,8 @@
-name: example-environment
+name: basemap-environment
 channels:
   - conda-forge
   - bioconda
   - anaconda
 dependencies:
-  - python=2.7
-  - numpy
-  - matplotlib=2.2.2
-  - basemap
-  - pil
-  - freetype=2.8.0
+  - pillow
+  - basemap-data-hires
