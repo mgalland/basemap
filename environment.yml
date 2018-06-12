@@ -9,3 +9,4 @@ dependencies:
   - matplotlib=2.2.2
   - basemap
   - pil
+  - freetype=2.8.0
