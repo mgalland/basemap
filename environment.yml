@@ -4,7 +4,7 @@ channels:
   - bioconda
   - anaconda
 dependencies:
-  - python==2.7
+  - python=2.7
   - numpy
-  - matplotlib==2.2.2
+  - matplotlib=2.2.2
   - basemap=v1.0.7
