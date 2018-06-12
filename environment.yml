@@ -7,3 +7,4 @@ dependencies:
   - pillow
   - basemap-data-hires
   - netcdf4 
+  - pandas
